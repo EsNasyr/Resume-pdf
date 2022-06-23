@@ -1,0 +1,6 @@
+@media (max-width: 700px) {
+    .pdf{
+        max-width: 100%;
+        max-height: 100%;
+    }
+}
